@@ -30,6 +30,7 @@ LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@ LeetCode questions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
