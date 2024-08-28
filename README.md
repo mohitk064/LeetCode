@@ -32,6 +32,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ LeetCode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ LeetCode questions.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohitk064/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
