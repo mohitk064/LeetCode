@@ -12,6 +12,7 @@ LeetCode questions.
 | [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohitk064/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitk064/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,10 +59,12 @@ LeetCode questions.
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohitk064/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohitk064/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
