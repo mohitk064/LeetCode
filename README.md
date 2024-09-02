@@ -14,6 +14,7 @@ LeetCode questions.
 | [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohitk064/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitk064/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohitk064/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
@@ -21,6 +22,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 ## Union Find
 |  |
 | ------- |
@@ -49,6 +51,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohitk064/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
