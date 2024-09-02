@@ -23,6 +23,7 @@ LeetCode questions.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
 | ------- |
@@ -41,6 +42,7 @@ LeetCode questions.
 | [0020-valid-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ LeetCode questions.
 | ------- |
 | [0015-3sum](https://github.com/mohitk064/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
