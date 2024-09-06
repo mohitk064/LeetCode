@@ -14,7 +14,7 @@ public:
         sort(merged.begin(), merged.end());
         int total = merged.size();
         if(total % 2 == 1){
-            return static_cast<double>(merged[total/2]);
+            return (merged[total/2]);
         }
         else{
             int middle1 = merged[total/2 -1];
