@@ -31,6 +31,7 @@ LeetCode questions.
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -44,6 +45,7 @@ LeetCode questions.
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitk064/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ LeetCode questions.
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -125,4 +128,5 @@ LeetCode questions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitk064/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
