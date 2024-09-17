@@ -30,6 +30,7 @@ LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitk064/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohitk064/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/mohitk064/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -154,6 +155,7 @@ LeetCode questions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohitk064/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mohitk064/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/mohitk064/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mohitk064/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohitk064/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
