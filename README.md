@@ -9,6 +9,7 @@ LeetCode questions.
 | [0001-two-sum](https://github.com/mohitk064/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohitk064/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mohitk064/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mohitk064/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohitk064/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitk064/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mohitk064/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -63,6 +64,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitk064/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/mohitk064/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohitk064/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -190,4 +192,8 @@ LeetCode questions.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohitk064/LeetCode/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohitk064/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
