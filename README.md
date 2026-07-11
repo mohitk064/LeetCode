@@ -31,6 +31,7 @@ LeetCode questions.
 | [0283-move-zeroes](https://github.com/mohitk064/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohitk064/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohitk064/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
@@ -228,4 +229,5 @@ LeetCode questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohitk064/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
