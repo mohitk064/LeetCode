@@ -1,21 +1,26 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        int actualCount = 1;
+        int count = 1;
         sort(nums.begin(), nums.end());
-        int longest = 0;
-        int count = 0;
-        int lastSmaller = INT_MIN;
-        for(int i = 0; i< nums.size(); i++){
-            if(nums[i] - 1 == lastSmaller){
-                count++;
-                lastSmaller = nums[i];
-            }
-            else if(nums[i] != lastSmaller){
-                count = 1;
-                lastSmaller = nums[i];
-            }
-            longest = max(longest, count);
+        if(nums.size() == 0){
+            return 0;
         }
-        return longest;
+        else{
+        for(int i = 0; i<nums.size()-1; i++){
+            if(nums[i] == nums[i+1]){
+                continue;
+            }
+            else if(nums[i+1] - nums[i] == 1){
+                count++;
+            }
+            else{
+                actualCount = max(count,actualCount);
+                count = 1;
+            }
+        }
+        return max(count, actualCount);
+        }
     }
 };
