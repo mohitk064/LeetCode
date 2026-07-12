@@ -230,4 +230,8 @@ LeetCode questions.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohitk064/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohitk064/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
