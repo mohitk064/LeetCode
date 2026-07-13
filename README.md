@@ -31,6 +31,7 @@ LeetCode questions.
 | [0283-move-zeroes](https://github.com/mohitk064/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohitk064/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mohitk064/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohitk064/LeetCode/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@ LeetCode questions.
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Union Find
@@ -229,6 +231,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohitk064/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
