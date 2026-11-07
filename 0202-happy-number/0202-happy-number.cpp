@@ -10,7 +10,7 @@ public:
         return res;
     }
     bool isHappy(int n) {
-        set<int> seen;
+        unordered_set<int> seen;
         while(n != 1 && seen.find(n) == seen.end()){
             seen.insert(n);
             n = getNext(n);
