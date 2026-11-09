@@ -49,6 +49,7 @@ LeetCode questions.
 | [0146-lru-cache](https://github.com/mohitk064/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mohitk064/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mohitk064/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/mohitk064/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ LeetCode questions.
 | [0022-generate-parentheses](https://github.com/mohitk064/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohitk064/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/mohitk064/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
