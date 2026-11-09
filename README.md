@@ -53,6 +53,7 @@ LeetCode questions.
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
@@ -90,6 +91,7 @@ LeetCode questions.
 | [0076-minimum-window-substring](https://github.com/mohitk064/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mohitk064/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -230,6 +232,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitk064/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
 | ------- |
