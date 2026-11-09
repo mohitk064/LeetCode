@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canConstruct(string ransome, string magazine) {
         int count = 0;
-        map<char, int> mp;
+        unordered_map<char, int> mp;
         for(int i = 0; i<magazine.length(); i++){
             mp[magazine[i]]++;
         }
