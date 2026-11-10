@@ -1,25 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> mp;
+        unordered_map<char, int> mp1, mp2;
         if(s.length() != t.length()){
             return false;
         }
-        else{
         for(int i = 0; i<s.length(); i++){
-            mp[s[i]]++;
+            mp1[s[i]]++;
+            mp2[t[i]]++;
         }
-        for(int i = 0; i<t.length(); i++){
-            if(mp.find(t[i]) != mp.end()){
-                mp[t[i]]--;
+        for(auto x : mp1){
+            if(mp2.find(x.first) == mp2.end()){
+                return false;
             }
-        }
-        for(auto x : mp){
-            if(x.second != 0){
+            else if(mp2.find(x.first) != mp2.end() && mp2[x.first] != x.second){
                 return false;
             }
         }
         return true;
-        }
     }
 };
