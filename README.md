@@ -60,6 +60,7 @@ LeetCode questions.
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/mohitk064/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -99,6 +100,7 @@ LeetCode questions.
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/mohitk064/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
