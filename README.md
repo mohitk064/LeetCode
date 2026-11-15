@@ -57,6 +57,7 @@ LeetCode questions.
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
@@ -98,6 +99,7 @@ LeetCode questions.
 | [0205-isomorphic-strings](https://github.com/mohitk064/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitk064/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/mohitk064/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -195,6 +197,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohitk064/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,6 +244,7 @@ LeetCode questions.
 | ------- |
 | [0169-majority-element](https://github.com/mohitk064/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
