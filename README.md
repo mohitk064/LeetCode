@@ -38,6 +38,7 @@ LeetCode questions.
 | [0792-binary-search](https://github.com/mohitk064/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/mohitk064/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1207-unique-number-of-occurrences](https://github.com/mohitk064/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ LeetCode questions.
 | [0567-permutation-in-string](https://github.com/mohitk064/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/mohitk064/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/mohitk064/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1207-unique-number-of-occurrences](https://github.com/mohitk064/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Union Find
 |  |
 | ------- |
