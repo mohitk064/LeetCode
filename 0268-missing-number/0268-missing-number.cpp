@@ -1,18 +1,15 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int res  = 0;
-        sort(nums.begin(), nums.end());
-        if(nums[nums.size()-1]<nums.size()){
-            res = nums.size();
+        unordered_set<int> st;
+        for(int i = 0; i<nums.size(); i++){
+            st.insert(nums[i]);
         }
-        else{
-            for(int i = 0; i<nums.size()-1; i++){
-                if(nums[i+1] - nums[i] != 1){
-                    res = nums[i] + 1;
-                }
+        for(int i = 0; i<= nums.size(); i++){
+            if(st.find(i) == st.end()){
+                return i;
             }
         }
-        return res;
+        return {};
     }
 };
