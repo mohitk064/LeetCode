@@ -31,6 +31,7 @@ LeetCode questions.
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohitk064/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohitk064/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitk064/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohitk064/LeetCode/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@ LeetCode questions.
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -130,6 +132,7 @@ LeetCode questions.
 | [0217-contains-duplicate](https://github.com/mohitk064/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohitk064/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohitk064/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitk064/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0883-car-fleet](https://github.com/mohitk064/LeetCode/tree/master/0883-car-fleet) |
 ## Greedy
@@ -187,6 +190,7 @@ LeetCode questions.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohitk064/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/mohitk064/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +208,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohitk064/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -245,6 +250,7 @@ LeetCode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohitk064/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mohitk064/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitk064/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
@@ -261,4 +267,12 @@ LeetCode questions.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mohitk064/LeetCode/tree/master/0202-happy-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohitk064/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
